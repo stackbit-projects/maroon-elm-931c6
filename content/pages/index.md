@@ -9,7 +9,7 @@ sections:
     actions:
       - label: Games
         url: /games
-        style: primary
+        style: link
     align: left
     image: images/hero.svg
     image_alt: Hero placeholder image
