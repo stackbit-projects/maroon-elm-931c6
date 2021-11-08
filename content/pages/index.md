@@ -8,7 +8,7 @@ sections:
       quis lorem malesuada luctus.
     actions:
       - label: Games
-        url: /features
+        url: /games
         style: primary
     align: left
     image: images/hero.svg
